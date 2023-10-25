@@ -1,0 +1,16 @@
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\bin\Debug\net5.0\Delegateler.exe
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\bin\Debug\net5.0\Delegateler.deps.json
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\bin\Debug\net5.0\Delegateler.runtimeconfig.json
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\bin\Debug\net5.0\Delegateler.runtimeconfig.dev.json
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\bin\Debug\net5.0\Delegateler.dll
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\bin\Debug\net5.0\Delegateler.pdb
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\Delegateler.csproj.AssemblyReference.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\Delegateler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\Delegateler.AssemblyInfoInputs.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\Delegateler.AssemblyInfo.cs
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\Delegateler.csproj.CoreCompileInputs.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\Delegateler.dll
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\refint\Delegateler.dll
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\Delegateler.pdb
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\Delegateler.genruntimeconfig.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\Delegateler\obj\Debug\net5.0\ref\Delegateler.dll

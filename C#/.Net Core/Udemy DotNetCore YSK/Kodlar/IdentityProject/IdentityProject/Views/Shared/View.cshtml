@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+</head>
+<body style="padding-top : 60px;">
+    <partial name="Partial/Navbar/_Navbar.cshtml">
+@*    @if (!string.IsNullOrEmpty(TempData["Mesaj"].ToString()))
+        {
+            <div class="alert alert-danger" role="alert">
+                 @TempData["Mesaj"].ToString()
+            </div>
+        }*@
+    <div class="container">
+        @RenderBody()
+    </div>
+    <partial name="Partial/Footer/_Footer.cshtml">
+
+    @RenderSection("Scripts",false)
+</body>
+
+</html>

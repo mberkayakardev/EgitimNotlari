@@ -1,0 +1,16 @@
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\bin\Debug\net5.0\DelegateSinan.exe
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\bin\Debug\net5.0\DelegateSinan.deps.json
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\bin\Debug\net5.0\DelegateSinan.runtimeconfig.json
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\bin\Debug\net5.0\DelegateSinan.runtimeconfig.dev.json
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\bin\Debug\net5.0\DelegateSinan.dll
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\bin\Debug\net5.0\DelegateSinan.pdb
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\DelegateSinan.csproj.AssemblyReference.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\DelegateSinan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\DelegateSinan.AssemblyInfoInputs.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\DelegateSinan.AssemblyInfo.cs
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\DelegateSinan.csproj.CoreCompileInputs.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\DelegateSinan.dll
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\refint\DelegateSinan.dll
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\DelegateSinan.pdb
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\DelegateSinan.genruntimeconfig.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\DelegateSinan\obj\Debug\net5.0\ref\DelegateSinan.dll

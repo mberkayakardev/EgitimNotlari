@@ -1,0 +1,11 @@
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\bin\Debug\senkron.exe.config
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\bin\Debug\senkron.exe
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\bin\Debug\senkron.pdb
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\obj\Debug\senkron.csproj.AssemblyReference.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\obj\Debug\senkron.csproj.SuggestedBindingRedirects.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\obj\Debug\senkron.Form1.resources
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\obj\Debug\senkron.Properties.Resources.resources
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\obj\Debug\senkron.csproj.GenerateResource.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\obj\Debug\senkron.csproj.CoreCompileInputs.cache
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\obj\Debug\senkron.exe
+D:\Git Project\EgitimNotlari\C#\.Net Core\Udemy DotNetCore YSK\Kodlar\_1_ilkuygulama\senkron\obj\Debug\senkron.pdb

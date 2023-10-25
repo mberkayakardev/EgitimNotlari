@@ -1,0 +1,68 @@
+﻿@model CreateUserDto
+@{
+    ViewData["Title"] = "User Create";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+<h1>Kullanıcı Kayıt Sayfası</h1>
+
+<form asp-controller="Create" asp-action="CreateUser" method="post">
+    
+    <div class="mb-3">
+        
+        <div class="row">
+            <div class="col-6">
+                <label> Kullanıcı Adı </label>
+            </div>
+            <div class="col-6">
+                <input asp-for="@Model.UserName" class="from-group"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-6">
+                <label> Email  </label>
+            </div>
+            <div class="col-6">
+                <input asp-for="@Model.Email" class="from-group"/>
+            </div>
+        </div>
+
+        
+        <div class="row">
+            <div class="col-6">
+                <label> Şifre  </label>
+            </div>
+            <div class="col-6">
+                <input asp-for="@Model.Password" class="from-group"/>
+            </div>
+        </div>
+         
+        
+        <div class="row">
+            <div class="col-6">
+                <label>Şifre Onayla</label>
+            </div>
+            <div class="col-6">
+                <input asp-for="@Model.ConfirmPassword" class="from-group"/>
+            </div>
+        </div>
+
+
+        
+        <div class="row">
+            <div class="col-6">
+                <label>Cinsiyet</label>
+            </div>
+            <div class="col-6">
+                <input asp-for="@Model.Gender" class="from-group"/>
+            </div>
+         
+        </div>
+
+        <br />
+        <button class="btn btn-success" type="submit" > Kaydet </button>
+
+    </div>
+
+</form>

@@ -1,0 +1,43 @@
+﻿@ViewBag.Name 
+
+<hr />
+<h2> dersler </h2>
+<hr />
+
+    <ul>
+@foreach (string item in ViewBag.Dersler)
+    {
+        <li>
+            @item;
+        </li>
+    }
+    </ul>
+
+
+    <hr />
+    <h1>
+        Wivedata sorgusu 
+    </h1>
+    <hr />
+    <br /><br />
+    @ViewData["yas"] 
+    <br />
+    
+    <ul>
+@foreach (string item in ViewData["sehirler"] as List<string>)
+    {
+        <li>
+            @item;
+        </li>
+    }
+    </ul>
+
+    <br /><hr /><hr />@ViewData["Name"]<hr /><hr />
+    @foreach (string item in ViewBag.sehirler)
+    {
+        <li>
+            @item;
+        </li>
+    }
+    </ul>
+
