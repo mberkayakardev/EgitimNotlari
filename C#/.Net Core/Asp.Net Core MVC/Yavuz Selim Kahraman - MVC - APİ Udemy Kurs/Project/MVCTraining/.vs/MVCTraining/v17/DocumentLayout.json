@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Github\\EgitimNotlari\\C#\\.Net Core\\Asp.Net Core MVC\\Yavuz Selim Kahraman - MVC - AP\u0130 Udemy Kurs\\Project\\MVCTraining\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{837DD8CF-6A13-4DB1-815C-D98BE982E121}|MVCTraining\\MVCTraining.csproj|d:\\github\\egitimnotlari\\c#\\.net core\\asp.net core mvc\\yavuz selim kahraman - mvc - ap\u0130 udemy kurs\\project\\mvctraining\\mvctraining\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{837DD8CF-6A13-4DB1-815C-D98BE982E121}|MVCTraining\\MVCTraining.csproj|solutionrelative:mvctraining\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{837DD8CF-6A13-4DB1-815C-D98BE982E121}|MVCTraining\\MVCTraining.csproj|d:\\github\\egitimnotlari\\c#\\.net core\\asp.net core mvc\\yavuz selim kahraman - mvc - ap\u0130 udemy kurs\\project\\mvctraining\\mvctraining\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{837DD8CF-6A13-4DB1-815C-D98BE982E121}|MVCTraining\\MVCTraining.csproj|solutionrelative:mvctraining\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{837DD8CF-6A13-4DB1-815C-D98BE982E121}|MVCTraining\\MVCTraining.csproj|d:\\github\\egitimnotlari\\c#\\.net core\\asp.net core mvc\\yavuz selim kahraman - mvc - ap\u0130 udemy kurs\\project\\mvctraining\\mvctraining\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{837DD8CF-6A13-4DB1-815C-D98BE982E121}|MVCTraining\\MVCTraining.csproj|solutionrelative:mvctraining\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{837DD8CF-6A13-4DB1-815C-D98BE982E121}|MVCTraining\\MVCTraining.csproj|d:\\github\\egitimnotlari\\c#\\.net core\\asp.net core mvc\\yavuz selim kahraman - mvc - ap\u0130 udemy kurs\\project\\mvctraining\\mvctraining\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{837DD8CF-6A13-4DB1-815C-D98BE982E121}|MVCTraining\\MVCTraining.csproj|solutionrelative:mvctraining\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{837DD8CF-6A13-4DB1-815C-D98BE982E121}|MVCTraining\\MVCTraining.csproj|d:\\github\\egitimnotlari\\c#\\.net core\\asp.net core mvc\\yavuz selim kahraman - mvc - ap\u0130 udemy kurs\\project\\mvctraining\\mvctraining\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MethodsController.cs",
               "DocumentMoniker": "D:\\Github\\EgitimNotlari\\C#\\.Net Core\\Asp.Net Core MVC\\Yavuz Selim Kahraman - MVC - AP\u0130 Udemy Kurs\\Project\\MVCTraining\\MVCTraining\\Controllers\\MethodsController.cs",
               "RelativeDocumentMoniker": "MVCTraining\\Controllers\\MethodsController.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "MVCTraining\\Controllers\\MethodsController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-01T22:51:47.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-01T22:51:47.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Update.cshtml",
               "DocumentMoniker": "D:\\Github\\EgitimNotlari\\C#\\.Net Core\\Asp.Net Core MVC\\Yavuz Selim Kahraman - MVC - AP\u0130 Udemy Kurs\\Project\\MVCTraining\\MVCTraining\\Views\\Product\\Update.cshtml",
               "RelativeDocumentMoniker": "MVCTraining\\Views\\Product\\Update.cshtml",
@@ -68,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Github\\EgitimNotlari\\C#\\.Net Core\\Asp.Net Core MVC\\Yavuz Selim Kahraman - MVC - AP\u0130 Udemy Kurs\\Project\\MVCTraining\\MVCTraining\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCTraining\\Views\\Product\\Create.cshtml",
@@ -76,18 +75,17 @@
               "RelativeToolTip": "MVCTraining\\Views\\Product\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-01T22:29:39.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-01T22:29:39.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Github\\EgitimNotlari\\C#\\.Net Core\\Asp.Net Core MVC\\Yavuz Selim Kahraman - MVC - AP\u0130 Udemy Kurs\\Project\\MVCTraining\\MVCTraining\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCTraining\\Views\\Product\\Index.cshtml",
               "ToolTip": "D:\\Github\\EgitimNotlari\\C#\\.Net Core\\Asp.Net Core MVC\\Yavuz Selim Kahraman - MVC - AP\u0130 Udemy Kurs\\Project\\MVCTraining\\MVCTraining\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "MVCTraining\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2023-12-01T22:29:13.886Z",
               "EditorCaption": ""
@@ -102,8 +100,7 @@
               "RelativeToolTip": "MVCTraining\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-01T22:28:32.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-01T22:28:32.224Z"
             },
             {
               "$type": "Document",
@@ -115,18 +112,17 @@
               "RelativeToolTip": "MVCTraining\\Views\\Shared\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-01T22:28:31.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-01T22:28:31.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Github\\EgitimNotlari\\C#\\.Net Core\\Asp.Net Core MVC\\Yavuz Selim Kahraman - MVC - AP\u0130 Udemy Kurs\\Project\\MVCTraining\\MVCTraining\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MVCTraining\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Github\\EgitimNotlari\\C#\\.Net Core\\Asp.Net Core MVC\\Yavuz Selim Kahraman - MVC - AP\u0130 Udemy Kurs\\Project\\MVCTraining\\MVCTraining\\Controllers\\ProductController.cs",
               "RelativeToolTip": "MVCTraining\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwEIAAAAAAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAvwDMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-01T22:27:45.175Z",
               "EditorCaption": ""
