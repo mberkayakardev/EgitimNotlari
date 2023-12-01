@@ -16,7 +16,7 @@ app.UseStaticFiles(new StaticFileOptions {  RequestPath = "/mahmut", FileProvide
 
 app.UseRouting();
 
-app.UseEndpoints(x => x.MapControllerRoute(name: "defaults", pattern: "{controller=Static}/{Action=Index2}/{id?}/{berkayozelprop?}")); // Özel olan route her zaman daha yukarı yazılması gerekecektir. 
+app.UseEndpoints(x => x.MapControllerRoute(name: "defaults", pattern: "{controller=Product}/{Action=Index}/{id?}/{berkayozelprop?}")); // Özel olan route her zaman daha yukarı yazılması gerekecektir. 
 
 app.UseEndpoints(x => x.MapControllerRoute(name: "defaults", pattern: "Berkay", defaults: new { controller = "IAR", action = "Index" })); // Özel olan route her zaman daha yukarı yazılması gerekecektir. 
 

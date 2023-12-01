@@ -1,0 +1,24 @@
+﻿@model Product
+
+<h1> Ürün Güncelleme</h1>
+<hr />
+
+<form action="/Product/UpdateWithForm" method="post">
+    <div class="row">
+
+        <input type="hidden" name="ProductId" value="@Model.ProductId" />
+
+        <div class="col-4">
+            <input type="text" name="ProductName" class="form-control" placeholder="Ürün Adı " value="@Model.ProductName">
+        </div>
+        <div class="col-4">
+            <input type="text" name="Money" class="form-control" placeholder="Ürün Fiyatı" value="@Model.Money">
+        </div>
+
+        <div class="col-4">
+            <input type="text" name="ProductDescription" class="form-control" placeholder="Ürün açıklaması" value="@Model.ProductDescription">
+        </div>
+        <button type="submit" class="btn btn-success"> Kaydet </button>
+
+    </div>
+</form>
