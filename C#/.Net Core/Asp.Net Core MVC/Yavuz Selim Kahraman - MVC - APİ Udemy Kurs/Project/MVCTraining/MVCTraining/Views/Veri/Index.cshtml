@@ -1,0 +1,19 @@
+﻿@model BerkayModel
+
+<h1 style="text-align: center"> Controller dan view E Veri taşıma  </h1>
+
+<p> Bu zamana kadar değişkenlerimizi view de oluşturup bunlara erişmeye çalıştık. Şimdi olduğu gibi Controller içerisinden değişkenlerimize ulaşmaya çalışacağız </p>
+<p> Veriler artık Controller -> Action içerisinden View E gelecektir. </P>
+
+    4 tip veri taşıma yöntemi vardır 
+
+    <hr />
+    <br />
+    <hr />
+    <p> Viewbag Verisi : <strong>@ViewBag.Name</strong>  </p>
+    <br />
+    <p> ViewData Verisi : <strong>@ViewData["Name"]</strong>  </p>
+    <br />
+    <p> TempData Verisi : <strong>@TempData["Message"]</strong></p>
+    <br />
+    <p> Model Verisi : Modelimiz BerkayModel : @Model.Id- @Model.Name -  @Model.Age </p>

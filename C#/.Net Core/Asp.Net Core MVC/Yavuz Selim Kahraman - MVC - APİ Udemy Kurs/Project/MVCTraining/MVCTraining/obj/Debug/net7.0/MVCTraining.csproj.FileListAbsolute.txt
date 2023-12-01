@@ -1,0 +1,57 @@
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\appsettings.Development.json
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\appsettings.json
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.exe
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.deps.json
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.runtimeconfig.json
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.dll
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.pdb
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.AssemblyInfoInputs.cache
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.AssemblyInfo.cs
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.csproj.CoreCompileInputs.cache
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.RazorAssemblyInfo.cache
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.RazorAssemblyInfo.cs
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.sourcelink.json
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets.build.json
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets.development.json
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets\msbuild.MVCTraining.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets\msbuild.build.MVCTraining.props
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVCTraining.props
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVCTraining.props
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\scopedcss\bundle\MVCTraining.styles.css
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.dll
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\refint\MVCTraining.dll
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.pdb
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.genruntimeconfig.cache
+D:\Github\EgitimNotlari\C#\.Net Core\MVC Core YSK\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\ref\MVCTraining.dll
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\appsettings.Development.json
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\appsettings.json
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.exe
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.deps.json
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.runtimeconfig.json
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.dll
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.pdb
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.AssemblyInfoInputs.cache
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.AssemblyInfo.cs
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.csproj.CoreCompileInputs.cache
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.RazorAssemblyInfo.cache
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.RazorAssemblyInfo.cs
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.sourcelink.json
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets.build.json
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets.development.json
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets\msbuild.MVCTraining.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets\msbuild.build.MVCTraining.props
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVCTraining.props
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVCTraining.props
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\scopedcss\bundle\MVCTraining.styles.css
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.dll
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\refint\MVCTraining.dll
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.pdb
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\MVCTraining.genruntimeconfig.cache
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\obj\Debug\net7.0\ref\MVCTraining.dll
+D:\Github\EgitimNotlari\C#\.Net Core\Asp.Net Core MVC\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\Project\MVCTraining\MVCTraining\bin\Debug\net7.0\MVCTraining.staticwebassets.runtime.json

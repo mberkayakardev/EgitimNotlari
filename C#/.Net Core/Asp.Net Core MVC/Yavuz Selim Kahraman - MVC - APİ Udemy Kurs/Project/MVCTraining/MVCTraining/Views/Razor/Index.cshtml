@@ -1,0 +1,139 @@
+﻿@* Çoktu satur için @{ buraya kodlar gelir }  *@
+
+@* Tekli satır için @ sadece bu yeterlidir.   *@
+
+@{
+    int yasdurumu = 15;
+    string girebilirmi = string.Empty;
+
+    if (yasdurumu > 18)
+    {
+        girebilirmi = "Evet";
+    }
+    else
+    {
+        girebilirmi = "Hayırr";
+    }
+
+
+    string Selamver(string ad)
+    {
+        return ad + " Merhaba nasılsın ? ";
+    }
+
+    void Selamver2(string ad)
+    {
+
+    }
+}
+
+
+@* şimdi bu aşamada tek satırlı kişlemleri listeleyelim *@
+
+@girebilirmi                                            @* Görüleceği gibi view deki model yada değişken çağrıldı *@
+@(3 > 15 ? "3 15 ten büyüktür " : "3 15 ten küçüktür ")   @* Görüldüğü gibi çıktı verir ternary bize her zaman *@
+@Selamver("Berkay")                                     @* Görüldüğü gibi string bir fonkisyon çağrıldı void çağıramazsın int çağırabilirsin dönmesi zorunlu tek satır için *@
+@* @Selamver2("asd") *@                                 @* hata verdi misal *@
+@(4 + 2)
+@(1 == 2)                                              @* Görüldüğü gibi mantıksal yada aritmetiksel ama çıktısı olan ve bize değer dönecek birşeyi baasabiliyoruz *@
+
+
+
+@**********************************************************************************************************************************************************************************************@
+@**********************************************************************************************************************************************************************************************@
+@**********************************************************************************************************************************************************************************************@
+@**********************************************************************************************************************************************************************************************@
+@**********************************************************************************************************************************************************************************************@
+
+<hr />
+<hr />
+<hr />
+<hr />
+
+@{
+    List<string> Listem = new() { "Ahmet", "Mehmet", "Hasan", "Hüseyin" };
+    string Ahmetekrana = "Ahmet";
+    @Ahmetekrana
+    // ekrana bascaktır 
+}
+
+<br /> <br />
+@{
+    string a;
+    foreach (var item in Listem)
+    {
+        a = item + "dönmeyecektir";
+    }
+}
+<br />
+<br />
+
+@foreach (var item in Listem)
+{
+    @(item + "Dönecektir") // ekrana basacaktır 
+} 
+<br />
+<br />
+@{
+    foreach (var item in Listem)
+    {
+        @(item + "Dönecektir ternary içinde ternariy") // ekrana basacaktı
+    }
+}
+<br />
+<br />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hr />
+
+@**********************************************************************************************************************************************************************************************@
+@**********************************************************************************************************************************************************************************************@
+@**********************************************************************************************************************************************************************************************@
+@**********************************************************************************************************************************************************************************************@
+@**********************************************************************************************************************************************************************************************@
+
+
+
+@foreach( var item in Listem)
+{
+    <p> @item </p> // değişkene ulaşıp değer aldık çünkü html içidne 
+    <br />
+}
+<hr />
+<br />
+@foreach (var item in Listem)
+{
+    <p> item </p> // itemi razor değişkeni değil html olarak algıladı 
+    <br />
+}
+
+<hr />
+<br />
+@foreach (var item in Listem)
+{
+    <p> item </p> 
+    <br />
+    string abc = item;
+    @abc;
+}
+
+
+
+
+@{
+    BerkayModel GetBerkay()
+    {
+        return new BerkayModel { Id = 1, Name = "Berkay AKAR", Age = 24 };
+    }
+}
+
+
+<hr />
+<hr />
+<hr />
+<h1> Berkay Çağıran Method : @GetBerkay()</h1>

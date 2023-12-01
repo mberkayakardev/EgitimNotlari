@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Github\\EgitimNotlari\\C#\\.Net Core\\Asp.Net Core MVC\\Yavuz Selim Kahraman - MVC - APİ Udemy Kurs\\Project\\MVCTraining\\MVCTraining\\wwwroot\\hudson_hornet_cars_image.png",
+      "PackagePath": "staticwebassets\\hudson_hornet_cars_image.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MVCTraining.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MVCTraining.props",
+      "PackagePath": "build\\MVCTraining.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCTraining.props",
+      "PackagePath": "buildMultiTargeting\\MVCTraining.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MVCTraining.props",
+      "PackagePath": "buildTransitive\\MVCTraining.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
