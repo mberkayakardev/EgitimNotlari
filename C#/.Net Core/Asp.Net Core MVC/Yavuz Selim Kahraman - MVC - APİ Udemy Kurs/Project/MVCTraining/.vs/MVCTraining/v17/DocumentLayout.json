@@ -62,8 +62,7 @@
               "RelativeToolTip": "MVCTraining\\Views\\Product\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-01T22:44:44.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-01T22:44:44.703Z"
             },
             {
               "$type": "Document",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "MVCTraining\\Controllers\\ProductController.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAvwDMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-01T22:27:45.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-01T22:27:45.175Z"
             }
           ]
         }
