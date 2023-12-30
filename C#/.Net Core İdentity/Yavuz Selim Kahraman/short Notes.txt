@@ -1,0 +1,76 @@
+* Bu etapta bizler login işlemini gerçekleştirelim
+
+* (Sing in - Sing out) işlemi için Identity tarafında SingInManager<AppUser> çağırmamız gerekecektir. 
+
+* Bu işlem için Constructor injection ile ilgili işlemi ele alacağız.
+
+* _singin.PasswordSinginAsync methodunu kullanabilirsiniz. (username, password, ispersistence, lockoutonfailure)
+
+* Persistende : Beni hatırla demek, siz bir kullanıcı giriş işlemi gerçekleştirdiğiniz zaman o kullanıcının ilgili 
+bilgilerini bir cookie oluşturup içerisinde yazmaktadır. Eğer siz bu alanı true geçerseniz cookie cookie ayarları boyunca tutulur, 
+false geçerseniz session boyunca ilgili bilgiler tutulmaktadır. Kullanıcı her seferinde sing in olmasının önüne geçiliyor
+tekrar girdin sayfaya seni sing in tarafına atmıyor. 
+
+*  LockoutonFailture : ilgili kullanıcının bilgileri kilitlensinmi kilitlenmesinmi 
+
+* Singinresult bizlere dönmektedir. diğerinde identity result dönmektedir. 
+
+(sing in ilk videoydu)
+--------------------------------------------------------------------------------------------------------
+(sing in 2 video ama sadece burda singin propertylerini (identityOptions içeriisnden gerçekleştirmektedir. ))
+
+içerisinde opt.Singin alanı için 3 property bulunmaktadır. 
+
+EmailConfirmed = true ise email false ise giriş yapamazsın
+PhoneConfirmed = true ise Phone false ise giriş yapamazsın
+RequiredConfirmed true ise ikisininde doğrulanması istenmektedir. 
+
+--------------------------------------------------------------------------------------------------------
+(User Nesnesi süreci )
+
+Bir kullanıcı giriş yaptığında identity de neler oluyor onun hakkında konuşalım. 
+
+AutoValidatAntiforgeryToken işlemi anlatıldı (Controller seviyesinde)
+
+* Bir giriş yapma işlemi gerçekleştirdiğimizde - giriş yapa bastığımızda 
+  identity isminde bir adet cookie oluşmakta bu cookie nin bir value su var 
+  ve bu cookie nin değerleri (value) okunabilir değil.
+
+* aynı cookie içerisinde path, expire, httpponly, samsite, isminde porpertyleri mevcut
+
+* Asp.net uygulamasında bir kullanıcı ile giriş yaptığımda bu kullanıcının bilgileri 
+  cookie de setlenmektedir. 
+
+* Cookie içerisine nasıl değerler tutulur ve ulaşılır ? 
+
+* Cookie içerisinde (identity) Rol bilgisi, id bilgisi, kullanıcı adı bilgisi, tutulmaktadır.
+
+* User Classı vasıtası ile bu datalara erişebiliyorsunuz. 
+
+* bu yüzden bizler Appuser diye isimlendirdik user ile karışmasın diye. 
+
+* Özel bir class var ve ben bu class aracılığı ile giriş yapan kullanıcının datalarına erişebiliyoruz
+
+* Bu class User Classı User.İdentity.Name = Kullanıcı ismini çevirir.
+
+* User class i cookie deki ilgili dataları okuyup kendi propertylerine setleyecektir.
+
+* User içerisinde claim içerisinde rollerine erişebilirsiniz.
+
+* Dedikki User adında özel bir nesne var ve ilgili cookie nin bilgilerine asp.net erişebilmektedir. 
+
+* User.Claims.Where(x=> x.Claims.Type = ClaimsType.Role).Tolist();
+
+* İlgili kullanıcının rollerine de erişim sağlayabilmekteyiz. 
+
+* İsteğe bağlı olunarak cookei ayarları setlenebilir
+
+Bir sayfaya sadece giriş yapan kullanıcıların erişebilmesi isteniyorsa o zaman biz şunu yapıyoruz 
+
+* [Authorize]
+
+* bir sadece giriş yapmış kullanıcılar yetmez, Aynı zamanda role ünde x rolu olması gerekir 
+
+[Authorize(role="")]
+
+* authorize değilsen logine yollar, yetkin yoksa access Denited sayfasına yollamaktadır
