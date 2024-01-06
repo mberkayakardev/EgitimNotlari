@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script> 
+    
+    // Primitive değişkenlerde değişkenin değerine müdahale (bir kısmını değiştirebilmek)
+    let a = "Berkay AKAR";
+    alert(a);
+    alert(a[0]);
+    a[0] = 'Q';
+    alert(a[0]);
+    a[1] = 'Q';
+    alert(a[1]);
+    alert(a);
+
+    
+    // Primitive değişkenler değerlerine göre kıyaslanabilir
+
+    let aprimitive = "Berkay"
+    let bprimitive = "Berkay"
+
+    var q = aprimitive == bprimitive;
+    alert(q)
+
+    // Diziler birden fazla aynı yada farklı veri türünü tek bir çatı altında toplayabilir 
+    let dizim = [1,2,3,"Ahmet",true,[1,9]]
+    console.log(dizim);
+
+    console.log(dizim[0]) // 1
+    console.log(dizim[1]) // 2
+    console.log(dizim[2]) // 3 
+    console.log(dizim[3]) // "Ahmet"
+    // ...
+
+    // Referans tipler primitive tiplerde olduğu gibi karşılaştırılamaz
+
+    let d1 = [1,2,3]
+    let d2 = [1,2,3]
+    
+    console.log(d1 == d2) // Her zaman false döner. non primitivler bu şekilde karşılaştırılamaz.
+
+    let user1 = {name:'Berkay', Role : ["Admin","Member"]}
+    let user2 = {name:'Berkay', Role : ["Admin","Member"]}
+
+    console.log("USer karşlılaştırması ", user1 == user2)
+    conso.log(user1)
+    conso.log(user2)
+
+    // Math objesi yer almaktadır burada.
+
+    Math.round(5.49) // 5
+    Math.round(5.5) // 6 
+
+    </script>
+</body>
+</html>
